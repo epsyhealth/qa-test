@@ -1,4 +1,4 @@
-# qa-test
+# Foxglove SDET/QA Engineer Interview Challenge
 
 Context:
 
