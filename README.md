@@ -1,6 +1,6 @@
 # Foxglove SDET/QA Engineer Interview Challenge
 
-Context:
+**Context:**
 
 We are building a simple CRUD app with the following functional requirements:
 
@@ -8,7 +8,7 @@ We are building a simple CRUD app with the following functional requirements:
 - As a user I want to see details about a particular user
 - As a user i want to add a new user that is persisted on the backend
 
-Task:
+**Task:**
 
 Build a simple test suite using a test automation framework of your choice. 
 It should cover the e2e functionality of the app including any backend interactions. 
