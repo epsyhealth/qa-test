@@ -12,3 +12,4 @@ We are building a simple CRUD app with the following functional requirements:
 
 Build a simple test suite using a test automation framework of your choice. 
 It should cover the e2e functionality of the app including any backend interactions. 
+It should take no longer than 2 hours.
